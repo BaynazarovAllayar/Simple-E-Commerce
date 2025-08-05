@@ -1,8 +1,7 @@
 package com.cartsy.ecom_proj.controller;
 
-import com.cartsy.ecom_proj.model.Product;
 import com.cartsy.ecom_proj.service.ProductService;
-import org.apache.catalina.valves.rewrite.ResolverImpl;
+import com.cartsy.ecom_proj.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

@@ -1,7 +1,7 @@
-package     com.cartsy.ecom_proj.service;
+package com.cartsy.ecom_proj.service;
 
+import com.cartsy.ecom_proj.repo.ProductRepo ;
 import com.cartsy.ecom_proj.model.Product;
-import com.cartsy.ecom_proj.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
